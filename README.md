@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @Praveen-vallapu
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning cybersecurity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1>Hi, I'm Praveen!</h1>
 
-<!---
-Praveen-vallapu/Praveen-vallapu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>👨‍💻 cybersecurity Projects:</h2>
+
+
+  - [Active directory home lab](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+<h2> certifications</h2>
+
+- [cyber Theart intelligence](https://www.coursera.org/account/accomplishments/verify/HUEZ2ENVB8X8 )
+- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+
+-->
