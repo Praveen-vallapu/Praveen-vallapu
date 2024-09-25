@@ -9,8 +9,11 @@
 <h2> certifications</h2>
 
 - [cyber Theart intelligence](https://www.coursera.org/account/accomplishments/verify/HUEZ2ENVB8X8 )
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Breach Response Case Studies](https://www.coursera.org/account/accomplishments/verify/AAC7FNVGN8Q8)
+- [Penetration Testing Incident Response andForensics](https://www.coursera.org/account/accomplishments/verify/CW7MGSMT5DVL)
+- [Cybersecurity comliance framework, standards & regulations](https://www.coursera.org/account/accomplishments/verify/6AB34XUW6MN2)
+- [Operating systems:Overview, Administration,and Security](https://www.coursera.org/account/accomplishments/verify/2R3F5XAC6MPF)
+
+- 
 
 -->
